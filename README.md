@@ -1,1 +1,1 @@
-This is a practice project using Tensorflow which detects if a room is messy or clean.
+This is a practice project using TensorFlow which detects if a room is messy or clean.
